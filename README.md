@@ -41,9 +41,10 @@ simple user interface.
 - Then the user asks a quation & the model analysies the quation and finds the similer words from the Q and writes a Anawer.
 
 <div style="display: flex; flex-wrap: wrap;">
-![Screenshot 2024-03-16 224147](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/981b0387-d671-4a88-bc51-7749a7fe3e56)
-![Screenshot 2024-03-16 224211](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/98def8d9-12eb-4d55-9dfa-7794922b1ae5)
-![Screenshot 2024-03-16 224319](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/1fad1468-9f0c-4475-b476-73ce3269d349)
+   <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/981b0387-d671-4a88-bc51-7749a7fe3e56" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/98def8d9-12eb-4d55-9dfa-7794922b1ae5" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/1fad1468-9f0c-4475-b476-73ce3269d349" alt="Image 3" style="width: 30%; margin: 5px;">
+    
 </div>
 
 
