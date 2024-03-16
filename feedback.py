@@ -87,3 +87,4 @@ def get_feedback_adapter(user):
 		return RedisFeedback(user)
 	else:
 		return Feedback(user)
+ 
