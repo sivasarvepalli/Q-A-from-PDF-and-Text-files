@@ -47,6 +47,8 @@ simple user interface.
 
 # Techstacks used
 
+`streamlit` , `Hugging Face Transformers ` , `OpenAI API` , `Requests` , `CSS `
+`os` , `importlib  `
 
 # How to run locally
 
