@@ -4,15 +4,20 @@
 
 
 ## DEMO video
-[Uploading final · Streamlit - Brave 2024-03-17 01-07-41.zip…]()
 
-(final · Streamlit - Brave 2024-03-17 01-07-41.zip](https://github.com/sivasarvepalli/Team-Kalki/files/14625062/final.Streamlit.-.Brave.2024-03-17.01-07-41.zip)
+[![Watch the video]([https://img.youtube.com/vi/](https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48))]
+
+
+
+
+
 
 ### Project descripition
 Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file. 
 
 In this we have 2 sections, one is pdf analyser using openai API Key and other is text documents analyser using an API Key from Hugging Face Transformers which is a pre-trained Q&A system.
 
+(final · Streamlit - Brave 2024-03-17 01-07-41.zip](https://github.com/sivasarvepalli/Team-Kalki/files/14625062/final.Streamlit.-.Brave.2024-03-17.01-07-41.zip)
 
 # Team Details 
 Team Number - VH088
