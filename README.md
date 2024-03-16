@@ -8,7 +8,7 @@
 ### Project descripition
 Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file. 
 
-In this we have 2 sections, one is pdf analyser using openai API Key Abd other is text documents analyser using an API Key from Hugging Face Transformers which is a pre-trained Q&A system.
+In this we have 2 sections, one is pdf analyser using openai API Key and other is text documents analyser using an API Key from Hugging Face Transformers which is a pre-trained Q&A system.
 
 
 # Team Details 
