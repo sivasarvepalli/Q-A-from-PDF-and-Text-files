@@ -1,9 +1,11 @@
 <h1 align="center">
-  # Q&A from TEXT Files
+  Q&A from TEXT Files
 </h1>
 
+## DEMO video
 
-## Project descripition
+
+### Project descripition
 Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file.
 
 
