@@ -13,14 +13,12 @@ In this we have 2 sections, one is pdf analyser using openai API Key Abd other i
 
 # Team Details 
 Team Number - VH088
-
-S.Siva Kumar - sivasarvepalli4@gmail.com
-
-P.Varun Tej - varuntej.p22@gmail.com
-
-P.Jaya Vardhan - jayavardhan1810@gmail.com
-
-M.karthik Reddy - mandapatikarthikreddy@gmail.com
+| Name    | Email           |
+|---------|-----------------|
+| S.Siva Kumar | sivasarvepalli4@gmail.com |
+| P.Varun Tej | varuntej.p22@gmail.com |
+| P.Jaya Vardhan | jayavardhan1810@gmail.com |
+| M.karthik Reddy | mandapatikarthikreddy@gmail.com |
 
 ## Problem Statement
 problem  : To study the whole pdf or text file is timne taking process. While it is good to resd the whole pdf and text files but it also consumes a lot of time when preparing for exams and when quick 
