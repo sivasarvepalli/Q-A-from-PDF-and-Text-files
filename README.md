@@ -2,8 +2,11 @@
   Q&A from TEXT Files
 </h1>
 
-## DEMO video
 
+## DEMO video
+[Uploading final · Streamlit - Brave 2024-03-17 01-07-41.zip…]()
+
+(final · Streamlit - Brave 2024-03-17 01-07-41.zip](https://github.com/sivasarvepalli/Team-Kalki/files/14625062/final.Streamlit.-.Brave.2024-03-17.01-07-41.zip)
 
 ### Project descripition
 Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file. 
