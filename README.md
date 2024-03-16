@@ -1,6 +1,7 @@
 # Team-Kalki
-# Team Details 
 
+
+#1 Team Details 
 Team Number - VH088
 
 S.Siva Kumar - sivasarvepalli4@gmail.com
@@ -12,7 +13,7 @@ P.Jaya Vardhan - jayavardhan1810@gmail.com
 M.karthik Reddy - mandapatikarthikreddy@gmail.com
 
 # Project descripition
-Q&A system from PDF and text files
+Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file.
 
 # Problem Statement
 problem  : To study the whole pdf or text file is timne taking process. While it is good to resd the whole pdf and text files but it also consumes a lot of time when preparing for exams and when quick 
