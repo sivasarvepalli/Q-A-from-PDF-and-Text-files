@@ -1,7 +1,10 @@
 # Team-Kalki
 S.Siva Kumar - sivasarvepalli4@gmail.com
+
 P.Varun Tej - varuntej.p22@gmail.com
+
 P.Jaya Vardhan - jayavardhan1810@gmail.com
+
 M.karthik Reddy - mandapatikarthikreddy@gmail.com
 
 # project descripition
