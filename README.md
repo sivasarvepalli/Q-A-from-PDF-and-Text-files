@@ -5,15 +5,7 @@
 
 ## DEMO video
 
-[![Watch the video](https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48)
-
-
-
-
-
-
-https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/9ceb6649-a3c2-4266-b7df-b8f4a068dd6c
-
+(https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48)
 
 
 ### Project descripition
