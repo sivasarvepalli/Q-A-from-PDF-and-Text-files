@@ -22,6 +22,7 @@ This project mainly helps students to travers the pdf and text files in short ti
 It uses openAI API KEY with which it reads the pdf files and answer the questions asked.
 simple user interface.
 
+
 # Problem Statement
 
 
@@ -29,6 +30,12 @@ simple user interface.
 
 
 # Technical implementation
+
+![Screenshot 2024-03-16 224147](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/7151c485-ca6e-4150-83e6-e81f0e5fca22)
+
+![Screenshot 2024-03-16 224211](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/98def8d9-12eb-4d55-9dfa-7794922b1ae5)
+
+![Screenshot 2024-03-16 224319](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/1fad1468-9f0c-4475-b476-73ce3269d349)
 
 
 # Techstacks used
