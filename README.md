@@ -51,7 +51,14 @@ simple user interface.
 `os` , `importlib  `
 
 # How to run locally
-
+- step 1 : clone the repo
+   `git clone https://github.com/sivasarvepalli/Team-Kalki`
+- step 2 : install the required packages
+   `pip install -r requirements.txt`   
+- step 3 : run the commande 
+  `cd Team-Kalki`
+- step 4 : run this command to run the web application
+   `streamlit run final.py`
 
 # What's next
 
