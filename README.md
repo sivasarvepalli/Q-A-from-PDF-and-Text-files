@@ -28,9 +28,9 @@ It uses openAI API KEY with which it reads the pdf files and answer the question
 simple user interface.
 
 # Technical implementation
-> A pdf or Text file is taken as input.
-> The text in the files is divided into fragments and anylsied.
-> Then the user asks a quation & the model analysies the quation and finds the similer words from the Q and writes a Anawer.
+= A pdf or Text file is taken as input.
+= The text in the files is divided into fragments and anylsied.
+= hen the user asks a quation & the model analysies the quation and finds the similer words from the Q and writes a Anawer.
 
 ![Screenshot 2024-03-16 224147](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/981b0387-d671-4a88-bc51-7749a7fe3e56)
 ![Screenshot 2024-03-16 224211](https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/98def8d9-12eb-4d55-9dfa-7794922b1ae5)
