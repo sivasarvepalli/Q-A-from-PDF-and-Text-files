@@ -7,7 +7,7 @@
 
 [![Watch the video](https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48)
 
-https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48
+<vedio src=https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48 style="width: 30%; margin: 5px;">
 ### Project descripition
 Q&A system from PDF and text files. The application provides a user-friendly interface using the Streamlit framework, allowing users to interact with the Q&A functionality seamlessly.The uploaded file is analysed and answers are povided for the asked quation from the file. 
 
