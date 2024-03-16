@@ -1,8 +1,8 @@
 # Team-Kalki
-S.Siva kumar - sivasarvepalli4@gmail.com
-p.varun tej - varuntej.p22@gmail.com
-p.jaya vardhan - jayavardhan1810@gmail.com
-M.karthik reddy - mandapatikarthikreddy@gmail.com
+S.Siva Kumar - sivasarvepalli4@gmail.com
+P.Varun Tej - varuntej.p22@gmail.com
+P.Jaya Vardhan - jayavardhan1810@gmail.com
+M.karthik Reddy - mandapatikarthikreddy@gmail.com
 
 # project descripition
 Q&A system from PDF and text files
