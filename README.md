@@ -5,10 +5,14 @@
 
 ## DEMO video
 
-[![Watch the video]([https://img.youtube.com/vi/](https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48))]
+[![Watch the video](https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48)
 
 
 
+
+
+
+https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/9ceb6649-a3c2-4266-b7df-b8f4a068dd6c
 
 
 
@@ -17,7 +21,6 @@ Q&A system from PDF and text files. The application provides a user-friendly int
 
 In this we have 2 sections, one is pdf analyser using openai API Key and other is text documents analyser using an API Key from Hugging Face Transformers which is a pre-trained Q&A system.
 
-(final · Streamlit - Brave 2024-03-17 01-07-41.zip](https://github.com/sivasarvepalli/Team-Kalki/files/14625062/final.Streamlit.-.Brave.2024-03-17.01-07-41.zip)
 
 # Team Details 
 Team Number - VH088
