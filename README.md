@@ -24,7 +24,7 @@ Team Number - VH088
 | P. Jaya Vardhan | jayavardhan1810@gmail.com |
 | M. Karthik Reddy | mandapatikarthikreddy@gmail.com |
 
-## Problem Statement : student assistant Question Answering system 
+## Problem Statement : Student assistant Question Answering system 
 problem  : To study the whole pdf or text file is time taking process. While it is good to read the whole pdf and text files but it also consumes a lot of time when preparing for exams and when quick 
 information is required it is hard to go through the whole document.
 
