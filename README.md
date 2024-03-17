@@ -16,7 +16,7 @@ In this we have 2 sections, one is pdf analyser using openai API Key and other i
 
 
 # Team Details 
-Team Number - VH088
+Team Number - VH088 (Team-Kalki)
 | Name    | Email           |
 |---------|-----------------|
 | S. Maha Bala Siva Kumar | sivasarvepalli4@gmail.com |
