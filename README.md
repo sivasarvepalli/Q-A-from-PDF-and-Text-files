@@ -71,7 +71,9 @@ simple user interface.
 <div style="display: flex; flex-wrap: wrap;">
    <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/0a2cd942-6fed-45e9-8906-2678022d1349" style="width: 30%; margin: 5px;">
     <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/8faa4a3e-ba93-41ee-a685-b618b05c098c" alt="Image 2" style="width: 30%; margin: 5px;">
+      <img src="https://github.com/sivasarvepalli/Q-A-from-PDF-and-Text-files/assets/131340671/237c9623-a243-4f59-b063-9426cdd17ea3" alt="Image 3" style="width: 30%; margin: 5px;">
 </div>
+
 
 
 # What's next
