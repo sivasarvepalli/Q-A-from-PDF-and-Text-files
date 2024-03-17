@@ -59,9 +59,9 @@ simple user interface.
 
 # How to run locally
 - step 1 : clone the repo
-   `git clone https://github.com/sivasarvepalli/Team-Kalki`
+   `git clone https://github.com/sivasarvepalli/Q-A-from-PDF-and-Text-files.git`
 - step 2 : run the commande 
-  `cd Team-Kalki`
+  `cd Q-A-from-PDF-and-Text-files`
 - step 3 : install the required packages
    `pip install -r requirements.txt`   
 - step 4 : run this command to run the web application
