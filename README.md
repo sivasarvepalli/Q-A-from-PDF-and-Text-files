@@ -5,7 +5,7 @@
 
 ## DEMO video
 
-![Watch the video](https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo)
+https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo
  
 https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48
 
