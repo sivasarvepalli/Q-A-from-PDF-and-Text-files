@@ -24,14 +24,14 @@ Team Number - VH088
 | P. Jaya Vardhan | jayavardhan1810@gmail.com |
 | M. Karthik Reddy | mandapatikarthikreddy@gmail.com |
 
-## Problem Statement
-problem  : To study the whole pdf or text file is timne taking process. While it is good to resd the whole pdf and text files but it also consumes a lot of time when preparing for exams and when quick 
+## Problem Statement : student assistant Question Answering system 
+problem  : To study the whole pdf or text file is time taking process. While it is good to read the whole pdf and text files but it also consumes a lot of time when preparing for exams and when quick 
 information is required it is hard to go through the whole document.
 
 ## About the Project
 
 solution : By using this application, questions asked by the user will be answered from the pdf or the text file.  
-we can simply say this is a student assistant.
+we can simply say, this is a student assistant.
 Primary goal of this project is to assist the students for time efficient preparation.
 This project mainly helps students to travers the pdf and text files in short time.
 It uses openAI API KEY with which it reads the pdf files and answer the questions asked.
