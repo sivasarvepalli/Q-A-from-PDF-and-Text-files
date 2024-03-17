@@ -5,7 +5,7 @@
 
 ## DEMO video
 
-> https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo
+> [!Watch demo on YouTube](https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo)
  
 https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48
 
@@ -76,7 +76,7 @@ simple user interface.
 
 # What's next
 For the future plans we are trying to completly fuse both the section in this project without decresing the accuracy of the model and remove the need of openai API Key.
-And if possible we plan to add a history or database to store
+And if possible we plan to add a history or database to store previous asked quations and answers.
 
 # Declaration
 We confirm that the code presented here was either developed entirely during the development process or underwent significant updates within the development timeframe. We understand that any plagiarism from external sources would result in disqualification of our project, and our participation in the project will be revoked.
