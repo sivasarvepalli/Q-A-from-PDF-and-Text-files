@@ -67,6 +67,13 @@ simple user interface.
 - step 4 : run this command to run the web application
    `streamlit run final.py`
 
+## Output Images
+<div style="display: flex; flex-wrap: wrap;">
+   <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/0a2cd942-6fed-45e9-8906-2678022d1349" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivasarvepalli/Team-Kalki/assets/131340671/8faa4a3e-ba93-41ee-a685-b618b05c098c" alt="Image 2" style="width: 30%; margin: 5px;">
+</div>
+
+
 # What's next
 For the future plans we are trying to completly fuse both the section in this project without decresing the accuracy of the model and remove the need of openai API Key.
 
