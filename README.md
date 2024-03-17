@@ -1,11 +1,11 @@
 <h1 align="center">
-  Q&A from TEXT Files
+  Q&A from PDF & TEXT Files
 </h1>
 
 
 ## DEMO video
 
-![Watch the video]([https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48](https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo))
+![Watch the video](https://youtu.be/EWtS1LKR-PM?si=5AQiaNslPMZLg2Yo)
  
 https://github.com/sivasarvepalli/Team-Kalki/assets/163630482/3bc70dda-ac4f-4694-91c9-fd5d2a5b6c48
 
