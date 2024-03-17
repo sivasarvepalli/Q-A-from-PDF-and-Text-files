@@ -76,6 +76,7 @@ simple user interface.
 
 # What's next
 For the future plans we are trying to completly fuse both the section in this project without decresing the accuracy of the model and remove the need of openai API Key.
+And if possible we plan to add a history or database to store
 
 # Declaration
 We confirm that the code presented here was either developed entirely during the development process or underwent significant updates within the development timeframe. We understand that any plagiarism from external sources would result in disqualification of our project, and our participation in the project will be revoked.
